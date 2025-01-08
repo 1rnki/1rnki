@@ -23,6 +23,7 @@ I am currently open to collaborations and new projects. If you are a developer, 
 
 - 📧 Email: rnkicontato@hotmail.com
 - 🐦 Twitter: @1rnki
+
 Feel free to explore my repositories and follow my progress. I'm excited to connect with the game development community!
 
 **Let's create something extraordinary together! 🚀**
