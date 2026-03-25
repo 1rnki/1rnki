@@ -21,7 +21,7 @@ I am currently open to collaborations and new projects. If you are a developer, 
 
 ## How to Contact Me
 
-- 📧 Email: miguelmsmalvarcontato@gmail.com
+- 📧 Email: miguelmsmalvar@gmail.com
 - 🐦 Twitter: @1rnki
 
 Feel free to explore my repositories and follow my progress. I'm excited to connect with the game development community!
